@@ -1,16 +1,15 @@
-### Hi there 👋
+![github_hero](https://user-images.githubusercontent.com/49513989/137347669-ad8aba75-2ba6-4163-83c5-d37bdaf2f658.gif)
 
-<!--
-**ktnsdev/ktnsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a <i>full stack developer</i> from Bangkok, Thailand, currently studying information and communication engineering. Interested in mobile and web application development, I always seek an opportunity to futher sharpen my skills and knowledge.
+  </p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  🔗 Find me on <a href="https://linkedin.com/in/tanasethj" target="_blank">LinkedIn</a> · <a href="https://instagram.com/ktns_" target="_blank">Instagram</a> · <a href="https://tanaseth.co/" target="_blank">tanaseth.co</a>
+  <br/>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+ ✉️    – <a href="mailto:hello@tanaseth.co" target="_blank">hello@tanaseth.co</a>
+  <br/>
+</h3>
