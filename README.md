@@ -1,7 +1,7 @@
 ![github_hero](https://user-images.githubusercontent.com/49513989/137347669-ad8aba75-2ba6-4163-83c5-d37bdaf2f658.gif)
 
 <p align="center">
-  I'm a <i>full stack developer</i> from Bangkok, Thailand, currently studying information and communication engineering. Interested in mobile and web application development, I always seek an opportunity to further sharpen my skills and knowledge.
+  I'm a <i>full stack developer</i> from Bangkok, Thailand. Interested in mobile and web application development, I always seek an opportunity to further sharpen my skills and knowledge.
   </p>
 
 <h3 align="center">
